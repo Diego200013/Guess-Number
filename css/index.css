@@ -1,0 +1,38 @@
+body{
+
+   font-family: 'Bungee Inline', cursive;
+   text-align: center;
+}
+
+h1{
+
+  font-family: 'Freckle Face', cursive;
+  font-size: 3em;
+  margin: 0;
+  color:#fff;
+  padding: 20px;
+  background: -webkit-linear-gradient( #000,grey);
+  text-shadow: 10px 15px 10px grey;
+
+}
+
+label{
+
+	font-size: 1.2rem;
+	  text-shadow: 10px 15px 10px grey;
+
+}
+
+input{
+
+  width: 5em;
+  height: 2em; 
+  text-align: center;
+  font-family: 'Bungee Inline', cursive;
+  border-radius: 10px;
+  border: 2px solid black;
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  text-shadow: 10px 15px 10px grey;
+
+
+}
